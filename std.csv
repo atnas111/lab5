@@ -1,0 +1,4 @@
+ID,Name,Coordinate X,Coordinate Y,Creation Date,Students Count,Average Mark,Form Of Education,Semester,Group Admin Name,Birthday,Weight,Location X,Location Y,Location Z,Location Name
+1,Group A,0.0,2.0,2024-04-26T18:19:15.648785800,30,85.5,FULL_TIME_EDUCATION,FIRST,Alice,2024-04-26T18:19:15.650779400,0,1.0,2.0,3,Location A
+2,Group B,0.0,4.0,2024-04-26T18:19:15.651775600,25,90.0,DISTANCE_EDUCATION,FOURTH,Bob,2024-04-26T18:19:15.651775600,0,4.0,5.0,6,Location B
+3,Group C,0.0,6.0,2024-04-26T18:19:15.651775600,20,92.5,EVENING_CLASSES,SIXTH,Charlie,2024-04-26T18:19:15.651775600,0,7.0,8.0,9,Location C

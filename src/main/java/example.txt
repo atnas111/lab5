@@ -1,0 +1,5 @@
+show
+add 1 ExampleGroup 10.5 20.7 2024-04-13T12:00:00 50 8.5 DISTANCE_EDUCATION THIRD John 2000-01-01T00:00:00 70 30.5 40 100 ExampleLocation
+info
+remove_by_id 1
+save
